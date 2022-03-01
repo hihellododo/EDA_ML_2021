@@ -4,6 +4,7 @@
 ### EDA_ML_2021
 
 *개발환경 : jupyter notebook, vscode, Atom, Flask
+개발언어
 *개발 언어 : python
 *개발 라이브러리 : numpy, pandas, sklearn, matplotlib, seaborn, lightGBM, XGBoost, optuna
 *개발기간 : 6일 (2021.12.23 ~ 2021.12.31.)
